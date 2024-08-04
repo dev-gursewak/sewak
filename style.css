@@ -1,0 +1,19 @@
+  
+.header {
+    display: flex;
+    justify-content: space-around;
+    background-color: #1f2937;
+}
+
+.logo-style {
+    font-size: 18px;
+    color: #f9faf8;
+    
+}
+.header-link {
+    display: flex;
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-left: 10px;
+    border: 1px brown solid;
+}
