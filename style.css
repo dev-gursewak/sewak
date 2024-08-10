@@ -3,17 +3,23 @@
     display: flex;
     justify-content: space-around;
     background-color: #1f2937;
+    margin: 0;
 }
 
 .logo-style {
     font-size: 18px;
     color: #f9faf8;
+    padding: 1em;
     
 }
 .header-link {
     display: flex;
     font-size: 18px;
     color: #e5e7eb;
+}
+
+.header-link div {
+    padding: 1em;
 }
 
 .hero-main-text {
@@ -38,4 +44,41 @@
 .secondary-text {
     font-size: 18px;
     color: #e5e7eb;
+}
+
+.main-title {
+    display: flex;
+    flex-direction:column;
+}
+
+.information-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.random-information {
+    display: flex;
+    flex-direction: column;
+}
+
+.illustration-image {
+    display: flex;
+    justify-content: center;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-around;
+}
+
+.quote-discription {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937
+
 }
