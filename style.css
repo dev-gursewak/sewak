@@ -3,7 +3,6 @@
     display: flex;
     justify-content: space-around;
     background-color: #1f2937;
-    margin: 0;
 }
 
 .logo-style {
@@ -24,7 +23,7 @@
     display: block;
     padding: 1em;
     color: #e5e7eb;
-    text-size: 18px;
+    font-size: 18px;
 
 }
 
