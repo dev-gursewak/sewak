@@ -149,3 +149,12 @@ body {
     border-radius: 10px;
     padding:10px 28px;
 }
+
+.copyright-footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px 100px;
+    background-color: #1f2937;
+    color:#f9faf8;
+
+}
