@@ -1,4 +1,6 @@
-  
+body {
+    margin: 0;
+}
 .header {
     display: flex;
     justify-content: space-around;
@@ -15,18 +17,17 @@
 .navigation-bar {
     display: flex;
     list-style: none;
-    padding
+    border: 0;
 }
 
 .navigation-bar a {
     text-decoration: none;
     display: block;
-    padding: 1em;
     color: #e5e7eb;
     font-size: 18px;
 
 }
-
+/*
 .hero-main-text {
     background-color: #1f2937;
     display:flex;
