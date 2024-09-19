@@ -70,8 +70,6 @@ body {
     border-radius: 10px;
 }
 
-
-/*
 .information-header {
     font-size: 36px;
     font-weight: bolder;
@@ -86,16 +84,20 @@ body {
     flex-direction: column;
 }
 
-.illustration-image {
+.illustration {
     display: flex;
     justify-content: center;
     padding: 0px 200px;
 }
 
+.illustration-image-text {
+    padding: 50px;
+}
+
 .text-under-image {
     flex-basis: 1px;
 }
-*/
+
 .quote {
     background-color: #e5e7eb;
     display: flex;
